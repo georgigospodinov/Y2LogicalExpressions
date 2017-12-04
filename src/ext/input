@@ -1,0 +1,2 @@
+argc=1Usage: ./ttable2 <number of variables> <expr>
+Or: ./ttable2 <number of variables> <expr1> <expr2>
